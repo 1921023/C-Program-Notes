@@ -685,9 +685,29 @@ Enter the value upto pattern is shown:8
 * * * * * * * 
 * * * * * * * *
 ```
+## 21:To convert fahrehnite to celcius and kelvin
+```
+  // To covert  fahrenheit to celsius and kelvin
+                 #include<stdio.h>
+ int main()
+ {
+  float a,b,c;
+  printf("Enter a fahrenheit value:");
+  scanf("%f",&a);
+b=((a-32.00)*5.00)/9.00;
+ printf("celsius value is:%.2f\n",b);
 
+ printf("kelvin value is:%.2f\n",c=b+273.15);
+  return 0;} 
+```
+**OUTPUT**:
+```
+Enter a fahrenheit value:450
+celsius value is:232.22
+kelvin value is:505.37
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDI3NzgxLDI0MjMwNjI0MSwyODQzMT
-gwMjUsMTc4NzE2NDkyOSwxOTI2MTAxMTY4LDk4NTMxNjQ5Mywx
-MjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1Nl19
+eyJoaXN0b3J5IjpbMTAxNDc2MzgzNywyNDIzMDYyNDEsMjg0Mz
+E4MDI1LDE3ODcxNjQ5MjksMTkyNjEwMTE2OCw5ODUzMTY0OTMs
+MTI0NzcyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5MzU1NTZdfQ==
 -->
