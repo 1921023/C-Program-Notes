@@ -1,6 +1,6 @@
 # _PPS Assignment_
 
-## [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#submitted-by-)_**Submitted By :**_
+## [](https://github.com/1921023/C-program-notes.c/blob/master/c%20program.c.md#submitted-by-)_**Submitted By :**_
 
 ##### [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#name--Deepak )_**Name : Deepak Kumar**_
 
@@ -707,8 +707,8 @@ celsius value is:232.22
 kelvin value is:505.37
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTk3MjA5MywxMDE0NzYzODM3LDI0Mj
-MwNjI0MSwyODQzMTgwMjUsMTc4NzE2NDkyOSwxOTI2MTAxMTY4
-LDk4NTMxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NT
-kzNTU1Nl19
+eyJoaXN0b3J5IjpbMTAyNjk0MzIsMTAxNDc2MzgzNywyNDIzMD
+YyNDEsMjg0MzE4MDI1LDE3ODcxNjQ5MjksMTkyNjEwMTE2OCw5
+ODUzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5Mz
+U1NTZdfQ==
 -->
