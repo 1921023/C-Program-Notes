@@ -247,8 +247,38 @@ WORK HARD AND ACHIEVE SUCCESS
 WORK HARD AND ACHIEVE SUCCESS 
 WORK HARD AND ACHIEVE SUCCESS
 ```
+## 10:To find area and volume of rectangle
+```
+//find area and volume of rectangle
+#include<stdio.h>
+int main()
+{
+ int l,b,h;
+ printf("Enter length of rectangle:");
+ scanf("%d",&l);
+ printf("\nEnter breadth of rectangle:");
+ scanf("%d",&b);
+ printf("\nEnter height of rectangle:");
+ scanf("%d",&h);
+ printf("\nThe area of rectangle is:%d",l*b);
+ printf("\nThe volume is :%d\n",l*b*h);
+ return 0;
+ }
+```
+**OUTPUT**:
+```
+Enter length of rectangle:4 
+
+Enter breadth of rectangle:3 
+
+Enter height of rectangle:4
+
+The area of rectangle is:12
+The volume is :48
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzczMTI5MDEsMTc4NzE2NDkyOSwxOT
-I2MTAxMTY4LDk4NTMxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkz
-MzcsMTA3NTkzNTU1Nl19
+eyJoaXN0b3J5IjpbMTM3MTA2NDcwOSwxNzg3MTY0OTI5LDE5Mj
+YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
+NywxMDc1OTM1NTU2XX0=
 -->
