@@ -320,8 +320,41 @@ tabel of:16
 16 X 19=304
 16 X 20=320
 ```
+## 12:To show stars pattern
+```
+ // TO show stars using loop 
+#include<stdio.h>
+int main()
+{ int i,j,k;
+ printf("Enter the no. to show pattern:");
+ scanf("%d",&k);
+ 
+  for(i=k;i>=1;i--)
+ {
+  for(j=i;j>=1;j--)
+ {
+  printf("* ");
+ }
+ printf("\n");
+ }
+ return 0;
+ }
+```
+**OUTPUT**:
+```
+Enter the no. to show pattern:8
+* * * * * * * * 
+* * * * * * * 
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTgwNTI3NCwxNzg3MTY0OTI5LDE5Mj
+eyJoaXN0b3J5IjpbMTExMDE5MTY1NSwxNzg3MTY0OTI5LDE5Mj
 YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
 NywxMDc1OTM1NTU2XX0=
 -->
