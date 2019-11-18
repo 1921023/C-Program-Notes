@@ -439,9 +439,93 @@ table of:5
 5 x 29 = 145
 5 x 30 = 150
 ```
+## 15:To call a patterns of face and calculator
 
+// call a pattern of face or calculator
+             #include<stdio.h>
+
+void calculator();
+void face();
+int main()
+{  int a;
+ printf("enter 0 to see a calculator or 1 to see face\n");
+ scanf("%d",&a);
+
+if(a==0)
+{
+   calculator();
+}
+   else if(a==1)
+{
+     face();
+  }
+ else
+{
+  printf("enter correct values\n");
+}
+}
+ void calculator()
+{ 
+puts(" _______________");
+puts("|               |");
+puts("|_______________|");
+puts("| 1 | 2 | 3 |   |");
+puts("|___|___|___|   |");
+puts("| 4 | 5 | 6 | + |");
+puts("|___|___|___|___|");
+puts("| 7 | 8 | 9 | - |");
+puts("|___|___|___|___|");
+puts("|     0     | * |");
+puts("|___________|___|");
+}
+ 
+ void face()
+{
+puts("___________________");
+puts("|   XXXXXXXXXXX   |");
+puts("|   ( ^     ^ )   |");
+puts("|   ( 0     0 )   |");
+puts("|    \\   |   /    |");
+puts("|     \\     /     |");
+puts("|      \\ = /      |");
+puts("|       \\_/       |");
+puts("|        |        |");
+puts("|________|________|");
+}
+```
+**OUTPUT**:IF YOU ENTER 0 THEN OUTPUT IS :
+```
+enter 0 to see a calculator or 1 to see face
+0
+ _______________
+|               |
+|_______________|
+| 1 | 2 | 3 |   |
+|___|___|___|   |
+| 4 | 5 | 6 | + |
+|___|___|___|___|
+| 7 | 8 | 9 | - |
+|___|___|___|___|
+|     0     | * |
+|___________|___|
+```
+IF YOU ENTER 1 THEN OUTPUT
+```
+enter 0 to see a calculator or 1 to see face
+1
+___________________
+|   XXXXXXXXXXX   |
+|   ( ^     ^ )   |
+|   ( 0     0 )   |
+|    \   |   /    |
+|     \     /     |
+|      \ = /      |
+|       \_/       |
+|        |        |
+|________|________|
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzOTQ1OTE2LDE3ODcxNjQ5MjksMTkyNj
-EwMTE2OCw5ODUzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3
-LDEwNzU5MzU1NTZdfQ==
+eyJoaXN0b3J5IjpbMTE4ODc4MjMyMiwxNzg3MTY0OTI5LDE5Mj
+YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
+NywxMDc1OTM1NTU2XX0=
 -->
