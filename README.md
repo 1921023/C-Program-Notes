@@ -1,10 +1,10 @@
 # _PPS Assignment_
 
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#submitted-by-)_**Submitted By :**_
+## [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#submitted-by-)_**Submitted By :**_
 
-##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#name--krishan)_**Name : Deepak Kumar**_
+##### [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#name--Deepak )_**Name : Deepak Kumar**_
 
-##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#roll-no--1921057)_**Roll No. : 1921023**_
+##### [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#roll-no--1921023)_**Roll No. : 1921023**_
 
 ##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#branch--information-tecnologyit)_**Branch : Information Tecnology(I.T)**_
 
@@ -707,7 +707,8 @@ celsius value is:232.22
 kelvin value is:505.37
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDc2MzgzNywyNDIzMDYyNDEsMjg0Mz
-E4MDI1LDE3ODcxNjQ5MjksMTkyNjEwMTE2OCw5ODUzMTY0OTMs
-MTI0NzcyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5MzU1NTZdfQ==
+eyJoaXN0b3J5IjpbMTk2NzQ2NTAzNywxMDE0NzYzODM3LDI0Mj
+MwNjI0MSwyODQzMTgwMjUsMTc4NzE2NDkyOSwxOTI2MTAxMTY4
+LDk4NTMxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NT
+kzNTU1Nl19
 -->
