@@ -652,9 +652,42 @@ enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
 ```
+## 20:To show stars pattern
+```
+//to show star pattern for n numbers
+#include<stdio.h>
+int main()
+{
+int i,j,k;
+printf("Enter the value upto pattern is shown:");
+scanf("%d",&k);
+
+for(i=1;i<=k;i++)
+{
+ for(j=1;j<=i;j++)
+{
+ printf("* ");
+}
+printf("\n");
+}
+return 0;
+}
+```
+**OUTPUT**:
+```
+Enter the value upto pattern is shown:8
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+* * * * * * * 
+* * * * * * * *
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDY2OTcwNywyNDIzMDYyNDEsMjg0Mz
-E4MDI1LDE3ODcxNjQ5MjksMTkyNjEwMTE2OCw5ODUzMTY0OTMs
-MTI0NzcyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5MzU1NTZdfQ==
+eyJoaXN0b3J5IjpbMTkyNDI3NzgxLDI0MjMwNjI0MSwyODQzMT
+gwMjUsMTc4NzE2NDkyOSwxOTI2MTAxMTY4LDk4NTMxNjQ5Mywx
+MjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1Nl19
 -->
