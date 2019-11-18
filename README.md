@@ -119,9 +119,9 @@ Enter two numbers to get sum:50 50
 The result is :50 + 50= 100
 ```
 
-## :To show area,perimeter,volume of square
+## 5:To show area,perimeter,volume of square
 
-   
+   ```
  //Area,premiter,volume of square
   #include<stdio.h>
 void square();
@@ -140,16 +140,40 @@ void square()
  printf("\nArea of square:%d",side*side);
  printf("\nVolume of square:%d\n",side*side*side);
 }
-
+```
 **OUTPUT**:
-
+```
 Enter the side of square:4
 
 Perimeter of square:16
 Area of square:16
 Volume of square:64
+## :To find number is even or odd
+
+     #include<stdio.h>
+int main()
+{                                
+  int a;   
+ printf("Enter a number:");
+ scanf("%d",&a);
+if(a%2==0)
+printf("The  number is even\n");
+else
+ printf("The number is odd\n");
+}
+
+**OUTPUT**:
+
+Enter a number:4
+The  number is even
+
+_**OR**_
+
+Enter a number:7
+The number is odd
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ4OTE1MiwxOTI2MTAxMTY4LDk4NT
-MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
-Nl19
+eyJoaXN0b3J5IjpbLTEwNzczMjgwMTgsMTkyNjEwMTE2OCw5OD
+UzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5MzU1
+NTZdfQ==
 -->
