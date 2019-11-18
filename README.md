@@ -1,5 +1,16 @@
+## 1:To print hello world
 
+//To print  hello world
+#include<stdio.h>
+int main()
+{                     
+ printf("\nHello world\n");
+}
+
+**OUTPUT:**
+
+ Hello world
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NDY2MTIsOTg1MzE2NDkzLDEyND
-c3MjczNjEsLTEyODM5OTMzNywxMDc1OTM1NTU2XX0=
+eyJoaXN0b3J5IjpbMTE4MTU2NTMxNCw5ODUzMTY0OTMsMTI0Nz
+cyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5MzU1NTZdfQ==
 -->
