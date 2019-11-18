@@ -276,9 +276,52 @@ Enter height of rectangle:4
 The area of rectangle is:12
 The volume is :48
 ```
+## 11:To show even table
+```
+//To show only even table
+#include<stdio.h>
+int main(){
+int m;
+printf("tabel of:");
+scanf("%d",&m);
+if(m%2==0)
+{
+for(int i=0;i<=20;i++)
+{
+printf("%d X %d=%d\n",m,i,m*i);
+}}
+else
+printf("enter even number\n");
 
+return 0;}
+```
+**OUTPUT**:
+```
+tabel of:16
+16 X 0=0
+16 X 1=16
+16 X 2=32
+16 X 3=48
+16 X 4=64
+16 X 5=80
+16 X 6=96
+16 X 7=112
+16 X 8=128
+16 X 9=144
+16 X 10=160
+16 X 11=176
+16 X 12=192
+16 X 13=208
+16 X 14=224
+16 X 15=240
+16 X 16=256
+16 X 17=272
+16 X 18=288
+16 X 19=304
+16 X 20=320
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTA2NDcwOSwxNzg3MTY0OTI5LDE5Mj
+eyJoaXN0b3J5IjpbMTEzOTgwNTI3NCwxNzg3MTY0OTI5LDE5Mj
 YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
 NywxMDc1OTM1NTU2XX0=
 -->
