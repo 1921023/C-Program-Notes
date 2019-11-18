@@ -439,8 +439,8 @@ table of:5
 5 x 29 = 145
 5 x 30 = 150
 ```
-## 15:To call a patterns of face and calculator
-
+## 16:To call a patterns of face and calculator
+```
 // call a pattern of face or calculator
              #include<stdio.h>
 
@@ -525,7 +525,7 @@ ___________________
 |________|________|
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODc4MjMyMiwxNzg3MTY0OTI5LDE5Mj
-YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
-NywxMDc1OTM1NTU2XX0=
+eyJoaXN0b3J5IjpbMjg0MzE4MDI1LDE3ODcxNjQ5MjksMTkyNj
+EwMTE2OCw5ODUzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3
+LDEwNzU5MzU1NTZdfQ==
 -->
