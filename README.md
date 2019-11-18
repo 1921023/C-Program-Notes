@@ -148,8 +148,10 @@ Enter the side of square:4
 Perimeter of square:16
 Area of square:16
 Volume of square:64
-## :To find number is even or odd
+```
 
+## :To find number is even or odd
+```
      #include<stdio.h>
 int main()
 {                                
@@ -161,19 +163,21 @@ printf("The  number is even\n");
 else
  printf("The number is odd\n");
 }
-
+```
 **OUTPUT**:
-
+```
 Enter a number:4
 The  number is even
-
+```
 _**OR**_
-
+```
 Enter a number:7
 The number is odd
 ```
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczMjgwMTgsMTkyNjEwMTE2OCw5OD
+eyJoaXN0b3J5IjpbLTE1ODQwOTM5NjQsMTkyNjEwMTE2OCw5OD
 UzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5MzU1
 NTZdfQ==
 -->
