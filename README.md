@@ -402,9 +402,46 @@ return 0;
 15 x 9 = 135
 15 x 10 = 150
 ```
+## 15: To show the table range
+```
+//To show a range of table upto user input
+#include<stdio.h>
+int main()
+{
+ int a,b,n;
+ printf("table of:");
+ scanf("%d",&a);
+ printf("\n enter the starting value of range:");
+ scanf("%d",&b);
+ printf("\n enter the last value of range:");
+ scanf("%d",&n);
+ for(b;b<=n;b++)
+ printf("%d x %d = %d\n",a,b,a*b);
+ return 0;
+ }
+```
+**OUTPUT**:
+```
+table of:5
+
+ enter the starting value of range:20
+
+ enter the last value of range:30
+5 x 20 = 100
+5 x 21 = 105
+5 x 22 = 110
+5 x 23 = 115
+5 x 24 = 120
+5 x 25 = 125
+5 x 26 = 130
+5 x 27 = 135
+5 x 28 = 140
+5 x 29 = 145
+5 x 30 = 150
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU1NTQ2MSwxNzg3MTY0OTI5LDE5Mj
-YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
-NywxMDc1OTM1NTU2XX0=
+eyJoaXN0b3J5IjpbNzgzOTQ1OTE2LDE3ODcxNjQ5MjksMTkyNj
+EwMTE2OCw5ODUzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3
+LDEwNzU5MzU1NTZdfQ==
 -->
