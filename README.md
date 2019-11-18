@@ -197,8 +197,58 @@ double:8
 short:2
 long:8
 ```
+## 8:To show area,diameter,circumference of circle
+```
+   #include<stdio.h>
+ int main()
+  {
+    float a;   
+float  const pi=3.14;
+   printf("Enter radius of circle:");
+    scanf("%f\n",&a);
+  printf("diameter of circle is:%f\n",2*a);
+  printf("circumference of circle:%f\n",2*pi*a);
+  printf("Area of circle:%f\n",pi*a*a);
+return 0;
+ } 
+```
+**OUTPUT**:
+```
+Enter radius of circle:6
+diameter of circle is:12.000000
+circumference of circle:37.680000
+Area of circle:113.040001
+```
+## 7:To show puts value upto n number using loop
+
+// to show punishment using loop
+ #include<stdio.h>
+ int main()
+ {
+ int i,a;
+ printf("Enter the number upto punishment is shown:");
+ scanf("%d",&a);
+  for(i=1;i<=a;i++)
+puts("WORK HARD AND ACHIEVE SUCCESS ");
+return 0;
+}
+`
+**OUTPUT**:
+```
+Enter the number upto punishment is shown:10
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS 
+WORK HARD AND ACHIEVE SUCCESS
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzE2NDkyOSwxOTI2MTAxMTY4LDk4NT
-MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
-Nl19
+eyJoaXN0b3J5IjpbLTYyNDAzMTg4NywxNzg3MTY0OTI5LDE5Mj
+YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
+NywxMDc1OTM1NTU2XX0=
 -->
