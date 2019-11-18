@@ -402,7 +402,7 @@ return 0;
 15 x 9 = 135
 15 x 10 = 150
 ```
-## 15: To show the table range.c
+## 15: To show the table range
 ```
 //To show a range of table upto user input
 #include<stdio.h>
@@ -441,7 +441,7 @@ table of:5
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwOTE4ODIzLDE3ODcxNjQ5MjksMTkyNj
+eyJoaXN0b3J5IjpbNzgzOTQ1OTE2LDE3ODcxNjQ5MjksMTkyNj
 EwMTE2OCw5ODUzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3
 LDEwNzU5MzU1NTZdfQ==
 -->
