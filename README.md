@@ -371,9 +371,24 @@ return 0;
 Enter temp in fahrehnite :450
 The celcius value is:232.222229
 ```
+## 14:To represent a table of user input
+```
+ // To represent a table of user input  number
+#include<stdio.h>
+int main()
+{
+   int i,j,k;
+ printf("Table of:");
+ scanf("%d",&j);
 
+  for(i=0;i<=10;i++)
+  printf("%d x %d = %d\n",j,i,j*i);
+
+return 0;
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUxNjYxNSwxNzg3MTY0OTI5LDE5Mj
-YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
-NywxMDc1OTM1NTU2XX0=
+eyJoaXN0b3J5IjpbLTEwMTI1OTI3OTAsMTc4NzE2NDkyOSwxOT
+I2MTAxMTY4LDk4NTMxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkz
+MzcsMTA3NTkzNTU1Nl19
 -->
