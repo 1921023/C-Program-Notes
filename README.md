@@ -97,11 +97,30 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 ```
-
-
+## 4:To find sum of two numbers
+```
+     // to find sum of two numbers
+     #include<stdio.h>
+int main()
+{                                                                                      
+ int a;
+ int b;
+ int c ;
+ printf("Enter two numbers to get sum:");
+ scanf("%d  %d",&a,&b);
+ printf(" \nThe result is :%d + %d= %d\n",a,b,c=a+b);
+    return 0;
+ }
+```
+**OUTPUT**:
+```
+Enter two numbers to get sum:50 50
+ 
+The result is :45 + 55= 100
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODczMDg0NSwxOTI2MTAxMTY4LDk4NT
+eyJoaXN0b3J5IjpbLTM0OTIxOTY4OCwxOTI2MTAxMTY4LDk4NT
 MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
 Nl19
 -->
