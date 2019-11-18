@@ -74,9 +74,34 @@ Your roll no is 1921023
 My phone number is 8847547031
  My age is 18
  ```
+ 
+## 3:Sum and average of numbers
+```
+ // sum and average of number
+#include<stdio.h>
+  int main()
+ {                                 
+     int a,b,c,d,e,sum,avg;
+                                                               
+   printf("Enter five numbers:");
+   scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);
+    sum = a+b+c+d+e;
+   printf("The sum is:%d\n",sum);
+   avg = sum/5;
+   printf("The average is:%d\n",avg);
+  }
+```
+**OUTPUT**:
+```
+Enter five numbers:1 2 3 4 5 
+The sum is:15
+The average is:3
+```
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDk3OTI5NSwxOTI2MTAxMTY4LDk4NT
+eyJoaXN0b3J5IjpbLTIyODczMDg0NSwxOTI2MTAxMTY4LDk4NT
 MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
 Nl19
 -->
