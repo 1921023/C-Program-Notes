@@ -352,9 +352,27 @@ Enter the no. to show pattern:8
 * * 
 *
 ```
+## 13:To convert Fahrehnite to Celcius
+```
+//to convert fahrehnite to celcius
+#include<stdio.h>
+int main(){
+float f,c;
+printf("Enter temp in fahrehnite :");
+scanf("%f",&f);
+c=((f-32)*5)/9;
+printf("The celcius value is:%f\n",c);
 
+return 0;
+}
+```
+**OUTPUT**:
+```
+Enter temp in fahrehnite :450
+The celcius value is:232.222229
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDE5MTY1NSwxNzg3MTY0OTI5LDE5Mj
+eyJoaXN0b3J5IjpbLTM1MDkyNzczMywxNzg3MTY0OTI5LDE5Mj
 YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
 NywxMDc1OTM1NTU2XX0=
 -->
