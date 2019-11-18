@@ -524,8 +524,32 @@ ___________________
 |        |        |
 |________|________|
 ```
+## 17:To show factorial result
+```
+//To show factorial of user input
+#include<stdio.h>
+int main()
+{
+int a,result=1;
+printf("Enter the factorial of:");
+scanf("%d",&a);
+for(int i=a;i>=1;i--)
+{
+printf("%d X ",i);
+result=result*i;
+}
+printf("= %d\n",result);
+return 0;
+}
+```
+**OUTPUT**:
+```
+Enter the factorial of:5
+5 X 4 X 3 X 2 X 1 X = 120
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MzE4MDI1LDE3ODcxNjQ5MjksMTkyNj
-EwMTE2OCw5ODUzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3
-LDEwNzU5MzU1NTZdfQ==
+eyJoaXN0b3J5IjpbNjU3Nzg3NzI3LDI4NDMxODAyNSwxNzg3MT
+Y0OTI5LDE5MjYxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEs
+LTEyODM5OTMzNywxMDc1OTM1NTU2XX0=
 -->
