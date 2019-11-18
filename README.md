@@ -150,7 +150,7 @@ Area of square:16
 Volume of square:64
 ```
 
-## 6:To find number is even or odd
+## 7:To find number is even or odd
 ```
      #include<stdio.h>
 int main()
@@ -174,10 +174,30 @@ _**OR**_
 Enter a number:7
 The number is odd
 ```
+## 6:To show the size of int,float,char,double,long,short
 
+ // size of int, float, char, double, long, short
+#include<stdio.h>
+int main()
+{                                   
+ printf("Integer:%d\n",sizeof(int));
+ printf("float:%d\n",sizeof(float));
+ printf("character:%d\n",sizeof(char));
+ printf("double:%d\n",sizeof(double));
+ printf("short:%d\n",sizeof(short));
+ printf("long:%d\n",sizeof(long));
+ }
 ```
+**OUTPUT**:
+```
+Integer:4
+float:4
+character:1
+double:8
+short:2
+long:8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDY3ODUxMiwxOTI2MTAxMTY4LDk4NT
-MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
-Nl19
+eyJoaXN0b3J5IjpbMzQxMDU3MTEzLDE5MjYxMDExNjgsOTg1Mz
+E2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMzNywxMDc1OTM1NTU2
+XX0=
 -->
