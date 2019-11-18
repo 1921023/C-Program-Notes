@@ -15,7 +15,6 @@
 ## 1:To print hello world
 ```
 
-//To print  hello world
 #include<stdio.h>
 int main()
 {                     
@@ -29,7 +28,7 @@ OUTPUT:
  Hello world
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTkxNjA0NCwxOTI2MTAxMTY4LDk4NT
-MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
-Nl19
+eyJoaXN0b3J5IjpbMjM0ODk5MjY0LDE5MjYxMDExNjgsOTg1Mz
+E2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMzNywxMDc1OTM1NTU2
+XX0=
 -->
