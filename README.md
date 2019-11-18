@@ -387,8 +387,24 @@ int main()
 return 0;
 }
 ```
+**OUTPUT**:
+
+```
+15 x 0 = 0
+15 x 1 = 15
+15 x 2 = 30
+15 x 3 = 45
+15 x 4 = 60
+15 x 5 = 75
+15 x 6 = 90
+15 x 7 = 105
+15 x 8 = 120
+15 x 9 = 135
+15 x 10 = 150
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI1OTI3OTAsMTc4NzE2NDkyOSwxOT
-I2MTAxMTY4LDk4NTMxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkz
-MzcsMTA3NTkzNTU1Nl19
+eyJoaXN0b3J5IjpbLTE5ODU1NTQ2MSwxNzg3MTY0OTI5LDE5Mj
+YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
+NywxMDc1OTM1NTU2XX0=
 -->
