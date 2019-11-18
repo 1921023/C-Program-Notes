@@ -7,12 +7,14 @@ int main()
 {                     
  printf("\nHello world\n");
 }
-
+```
+```
 OUTPUT:
 
  Hello world
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjEwMTE2OCw5ODUzMTY0OTMsMTI0Nz
-cyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5MzU1NTZdfQ==
+eyJoaXN0b3J5IjpbLTIyNjY4MzQyNiwxOTI2MTAxMTY4LDk4NT
+MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
+Nl19
 -->
