@@ -616,8 +616,44 @@ product of the matrix:
 15      22
 23      34
 ```
+## 19: To show result of operands
+
+//To show results using operands(+,-,*,%,/)
+#include<stdio.h>
+int main()
+{
+float a,b;
+ char c;
+printf("enter first  number:");
+scanf("%f",&a);
+printf("enter operator[+ - % / *]:");
+scanf(" %c",&c);
+printf("enter second number:");
+scanf("%f",&b);
+int d,r;
+d=(int) a;
+r=(int) b;
+switch(c)
+{
+case '+': printf("The result is:%.2f\n",a+b); break;
+case '-':printf("The result is:%.2f\n",a-b); break;
+case '*':printf("The result is:%.2f\n",a*b); break;
+case '%':printf("The result is:%d\n",d%r); break;
+case '/':printf("The result is:%.2f\n",a/b); break;
+default : printf("Enter correct operator ");
+}
+return 0;
+}
+```
+**OUTPUT**:
+```
+enter first  number:20
+enter operator[+ - % / *]: *
+enter second number:10
+The result is:200.00
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMzA2MjQxLDI4NDMxODAyNSwxNzg3MT
-Y0OTI5LDE5MjYxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEs
-LTEyODM5OTMzNywxMDc1OTM1NTU2XX0=
+eyJoaXN0b3J5IjpbMzU0ODY1MjQ5LDI0MjMwNjI0MSwyODQzMT
+gwMjUsMTc4NzE2NDkyOSwxOTI2MTAxMTY4LDk4NTMxNjQ5Mywx
+MjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1Nl19
 -->
