@@ -119,8 +119,37 @@ Enter two numbers to get sum:50 50
 The result is :50 + 50= 100
 ```
 
+## :To show area,perimeter,volume of square
+
+   
+ //Area,premiter,volume of square
+  #include<stdio.h>
+void square();
+int main()
+{     
+ square();
+ return 0;
+}                                    
+void square()
+{
+ int side;
+ printf("Enter the side of square:");
+ scanf("%d",&side);
+
+ printf("\nPerimeter of square:%d",4*side);
+ printf("\nArea of square:%d",side*side);
+ printf("\nVolume of square:%d\n",side*side*side);
+}
+
+**OUTPUT**:
+
+Enter the side of square:4
+
+Perimeter of square:16
+Area of square:16
+Volume of square:64
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MzE4MjMxLDE5MjYxMDExNjgsOTg1Mz
-E2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMzNywxMDc1OTM1NTU2
-XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ4OTE1MiwxOTI2MTAxMTY4LDk4NT
+MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
+Nl19
 -->
