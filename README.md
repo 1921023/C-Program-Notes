@@ -1,4 +1,16 @@
+# _PPS Assignment_
 
+## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#submitted-by-)_**Submitted By :**_
+
+##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#name--krishan)_**Name : Deepak Kumar**_
+
+##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#roll-no--1921057)_**Roll No. : 1921057**_
+
+##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#branch--information-tecnologyit)_**Branch : Information Tecnology(I.T)**_
+
+##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#section---it-a2)_**Section : I.T. A2**_
+
+# [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#my-c-programes-assignment)**My C programes assignment**
 ## 1:To print hello world
 ```
 
@@ -16,7 +28,7 @@ OUTPUT:
  Hello world
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTMzNTMxMiwxOTI2MTAxMTY4LDk4NT
+eyJoaXN0b3J5IjpbMTAzNzMzNTM2NCwxOTI2MTAxMTY4LDk4NT
 MxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1
 Nl19
 -->
