@@ -371,8 +371,9 @@ return 0;
 Enter temp in fahrehnite :450
 The celcius value is:232.222229
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDkyNzczMywxNzg3MTY0OTI5LDE5Mj
+eyJoaXN0b3J5IjpbLTIwMDUxNjYxNSwxNzg3MTY0OTI5LDE5Mj
 YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
 NywxMDc1OTM1NTU2XX0=
 -->
