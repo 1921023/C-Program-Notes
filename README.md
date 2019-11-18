@@ -219,8 +219,8 @@ diameter of circle is:12.000000
 circumference of circle:37.680000
 Area of circle:113.040001
 ```
-## 7:To show puts value upto n number using loop
-
+## 9:To show puts value upto n number using loop
+```
 // to show punishment using loop
  #include<stdio.h>
  int main()
@@ -232,7 +232,7 @@ Area of circle:113.040001
 puts("WORK HARD AND ACHIEVE SUCCESS ");
 return 0;
 }
-`
+```
 **OUTPUT**:
 ```
 Enter the number upto punishment is shown:10
@@ -248,7 +248,7 @@ WORK HARD AND ACHIEVE SUCCESS
 WORK HARD AND ACHIEVE SUCCESS
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDAzMTg4NywxNzg3MTY0OTI5LDE5Mj
-YxMDExNjgsOTg1MzE2NDkzLDEyNDc3MjczNjEsLTEyODM5OTMz
-NywxMDc1OTM1NTU2XX0=
+eyJoaXN0b3J5IjpbLTIxMzczMTI5MDEsMTc4NzE2NDkyOSwxOT
+I2MTAxMTY4LDk4NTMxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkz
+MzcsMTA3NTkzNTU1Nl19
 -->
