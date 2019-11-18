@@ -617,7 +617,7 @@ product of the matrix:
 23      34
 ```
 ## 19: To show result of operands
-
+```
 //To show results using operands(+,-,*,%,/)
 #include<stdio.h>
 int main()
@@ -652,8 +652,9 @@ enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0ODY1MjQ5LDI0MjMwNjI0MSwyODQzMT
-gwMjUsMTc4NzE2NDkyOSwxOTI2MTAxMTY4LDk4NTMxNjQ5Mywx
-MjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NTkzNTU1Nl19
+eyJoaXN0b3J5IjpbLTM1NDY2OTcwNywyNDIzMDYyNDEsMjg0Mz
+E4MDI1LDE3ODcxNjQ5MjksMTkyNjEwMTE2OCw5ODUzMTY0OTMs
+MTI0NzcyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5MzU1NTZdfQ==
 -->
