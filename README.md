@@ -8,9 +8,9 @@
 
 ##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#branch--information-tecnologyit)_**Branch : Information Tecnology(I.T)**_
 
-##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#section---it-a2)_**Section : I.T. A1**_
+##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#section---it-a1)_**Section : I.T. A1**_
 
-# [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#my-c-programes-assignment)**My C programes assignment**
+# [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#my-c-programes-assignment)**My C programes assignment**
 
 ## 1:To print hello world
 ```
@@ -707,7 +707,7 @@ celsius value is:232.22
 kelvin value is:505.37
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzQ2NTAzNywxMDE0NzYzODM3LDI0Mj
+eyJoaXN0b3J5IjpbLTU5OTk3MjA5MywxMDE0NzYzODM3LDI0Mj
 MwNjI0MSwyODQzMTgwMjUsMTc4NzE2NDkyOSwxOTI2MTAxMTY4
 LDk4NTMxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NT
 kzNTU1Nl19
