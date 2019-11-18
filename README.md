@@ -4,13 +4,13 @@
 
 ##### [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#name--Deepak )_**Name : Deepak Kumar**_
 
-##### [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#roll-no--1921023)_**Roll No. : 1921023**_
+##### [](https://github.com/1921023/C-program-notes.c/blob/master/c%20program.c.md#roll-no--1921023)_**Roll No. : 1921023**_
 
-##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#branch--information-tecnologyit)_**Branch : Information Tecnology(I.T)**_
+##### [](https://github.com/Krishan00007/C-program-notes.c/blob/master/c%20program.c.md#branch--information-tecnologyit)_**Branch : Information Tecnology(I.T)**_
 
-##### [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#section---it-a1)_**Section : I.T. A1**_
+##### [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#section---it-a1)_**Section : I.T. A1**_
 
-# [](https://github.com/1921023/C-program-notes/blob/master/c%20program.c.md#my-c-programes-assignment)**My C programes assignment**
+# [](https://github.com/1921023/C-program-notes.c/blob/master/c%20program.c.md#my-c-programes-assignment)**My C programes assignment**
 
 ## 1:To print hello world
 ```
@@ -707,8 +707,8 @@ celsius value is:232.22
 kelvin value is:505.37
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjk0MzIsMTAxNDc2MzgzNywyNDIzMD
-YyNDEsMjg0MzE4MDI1LDE3ODcxNjQ5MjksMTkyNjEwMTE2OCw5
-ODUzMTY0OTMsMTI0NzcyNzM2MSwtMTI4Mzk5MzM3LDEwNzU5Mz
-U1NTZdfQ==
+eyJoaXN0b3J5IjpbMTk1ODQ0NTY5NiwxMDE0NzYzODM3LDI0Mj
+MwNjI0MSwyODQzMTgwMjUsMTc4NzE2NDkyOSwxOTI2MTAxMTY4
+LDk4NTMxNjQ5MywxMjQ3NzI3MzYxLC0xMjgzOTkzMzcsMTA3NT
+kzNTU1Nl19
 -->
