@@ -727,7 +727,9 @@ return 0;
 }
 ```
 
-OUTPUT :
+*
+
+**st*OUTPUT :
 ```
 |a b||p q|
 |c d||r s|
@@ -751,6 +753,6 @@ _  _
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEyNzgzOTcsLTEzOTA3NDMzNzgsMT
-k1ODQ0NTY5Nl19
+eyJoaXN0b3J5IjpbMjE0NTc3ODUwNCwtMTM5MDc0MzM3OCwxOT
+U4NDQ1Njk2XX0=
 -->
