@@ -748,6 +748,7 @@ _  _
 ***
 
 ## 23: TABLE OF YOUR CHOICE
+```
 #include<stdio.h>
 int main()
 {
@@ -782,6 +783,6 @@ printf("%d*%d=%d\n",a,b,c);
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTM1MDE0NywyMTM2MzMyNzcxLC0xMz
-kwNzQzMzc4LDE5NTg0NDU2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDU1OTg1NzksMjEzNjMzMjc3MSwtMT
+M5MDc0MzM3OCwxOTU4NDQ1Njk2XX0=
 -->
