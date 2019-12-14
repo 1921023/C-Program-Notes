@@ -709,7 +709,7 @@ kelvin value is:505.37
 
 
 ```
-22: MULT
+22: MULTIIPLICATION OF MATRICES
 #include<stdio.h>
 int main()
 {
@@ -724,11 +724,12 @@ printf("_  _\n|%d %d|\n|%d %d|\n_  _\n",k,l,m,n);
 
 return 0;
 }
+```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTQ0MTAzNywtMTM5MDc0MzM3OCwxOT
+eyJoaXN0b3J5IjpbLTUwNDMyNjk1NywtMTM5MDc0MzM3OCwxOT
 U4NDQ1Njk2XX0=
 -->
