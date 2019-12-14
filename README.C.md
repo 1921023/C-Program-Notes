@@ -759,11 +759,9 @@ int c=a*b;
 printf("%d*%d=%d\n",a,b,c);
 }
 }
-```
+
 OUTPUT :
 ```
-
-
 5
 5*1=5
 5*2=10
@@ -783,6 +781,6 @@ OUTPUT :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU3MjEyMywyMTM2MzMyNzcxLC0xMz
+eyJoaXN0b3J5IjpbMTQ3NzM3NzYxOSwyMTM2MzMyNzcxLC0xMz
 kwNzQzMzc4LDE5NTg0NDU2OTZdfQ==
 -->
