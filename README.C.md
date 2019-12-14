@@ -759,8 +759,7 @@ int c=a*b;
 printf("%d*%d=%d\n",a,b,c);
 }
 }
-
-**
+```
 
 ## OUTPUT :
 ```
@@ -783,6 +782,6 @@ printf("%d*%d=%d\n",a,b,c);
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgwNjE5MTksMjEzNjMzMjc3MSwtMT
-M5MDc0MzM3OCwxOTU4NDQ1Njk2XX0=
+eyJoaXN0b3J5IjpbLTY3OTM1MDE0NywyMTM2MzMyNzcxLC0xMz
+kwNzQzMzc4LDE5NTg0NDU2OTZdfQ==
 -->
