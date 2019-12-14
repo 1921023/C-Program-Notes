@@ -725,11 +725,7 @@ printf("_  _\n|%d %d|\n|%d %d|\n_  _\n",k,l,m,n);
 return 0;
 }
 ```
-**
-
-## strong text
-
-**OUTPUT :
+OUTPUT :
 |a b||p q|
 |c d||r s|
 _   __   _
@@ -752,6 +748,6 @@ _  _
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwOTEyNzk1LC0xMzkwNzQzMzc4LDE5NT
-g0NDU2OTZdfQ==
+eyJoaXN0b3J5IjpbLTY3OTY2MzEwNywtMTM5MDc0MzM3OCwxOT
+U4NDQ1Njk2XX0=
 -->
