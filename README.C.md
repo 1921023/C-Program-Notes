@@ -760,6 +760,18 @@ printf("%d*%d=%d\n",a,b,c);
 }
 ```
 
+
+5
+5*1=5
+5*2=10
+5*3=15
+5*4=20
+5*5=25
+5*6=30
+5*7=35
+5*8=40
+5*9=45
+5*10=50
 ```
 
 
@@ -768,6 +780,6 @@ printf("%d*%d=%d\n",a,b,c);
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTY4NjA5NSwyMTM2MzMyNzcxLC0xMz
+eyJoaXN0b3J5IjpbMTEyODMyOTYzMCwyMTM2MzMyNzcxLC0xMz
 kwNzQzMzc4LDE5NTg0NDU2OTZdfQ==
 -->
