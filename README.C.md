@@ -705,8 +705,26 @@ b=((a-32.00)*5.00)/9.00;
 Enter a fahrenheit value:450
 celsius value is:232.22
 kelvin value is:505.37
-```
+22: mu
+```#include<stdio.h>
+int main()
+{
+int a,b,c,d,p,q,r,s,k,l,m,n;
+printf("_   __   _\n|a b||p q|\n|c d||r s|\n_   __   _\n");
+scanf("%d%d%d%d%d%d%d%d",&a,&b,&c,&d,&p,&q,&r,&s);
+k=a*p+b*r;
+l=a*q+b*s;
+m=c*p+d*r;
+n=c*q+d*s;
+printf("_  _\n|%d %d|\n|%d %d|\n_  _\n",k,l,m,n);
+
+return 0;
+}
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA3NDMzNzgsMTk1ODQ0NTY5Nl19
+eyJoaXN0b3J5IjpbLTM3MzAxODM4MywtMTM5MDc0MzM3OCwxOT
+U4NDQ1Njk2XX0=
 -->
