@@ -745,8 +745,22 @@ _  _
 |43 50|
 _  _
 ```
-23: TABLE OF YOUR CHOICE## *
+***
 
+## 23: TABLE OF YOUR CHOICE#include<stdio.h>
+int main()
+{
+int a,b,c;
+scanf("%d",&a);
+for(b=1;b<=10;b++)
+{
+int c=a*b;
+printf("%d*%d=%d\n",a,b,c);
+}
+}
+```
+
+```
 
 
 
@@ -754,6 +768,6 @@ _  _
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTM1ODY0MjcsMjEzNjMzMjc3MSwtMT
-M5MDc0MzM3OCwxOTU4NDQ1Njk2XX0=
+eyJoaXN0b3J5IjpbMTgzNTY4NjA5NSwyMTM2MzMyNzcxLC0xMz
+kwNzQzMzc4LDE5NTg0NDU2OTZdfQ==
 -->
