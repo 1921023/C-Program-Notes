@@ -760,7 +760,9 @@ printf("%d*%d=%d\n",a,b,c);
 }
 }
 
-OUTPUT :
+**
+
+## OUTPUT :
 ```
 5
 5*1=5
@@ -781,6 +783,6 @@ OUTPUT :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzM3NzYxOSwyMTM2MzMyNzcxLC0xMz
-kwNzQzMzc4LDE5NTg0NDU2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDgwNjE5MTksMjEzNjMzMjc3MSwtMT
+M5MDc0MzM3OCwxOTU4NDQ1Njk2XX0=
 -->
