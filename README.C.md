@@ -747,7 +747,8 @@ _  _
 ```
 ***
 
-## 23: TABLE OF YOUR CHOICE#include<stdio.h>
+## 23: TABLE OF YOUR CHOICE
+#include<stdio.h>
 int main()
 {
 int a,b,c;
@@ -758,6 +759,8 @@ int c=a*b;
 printf("%d*%d=%d\n",a,b,c);
 }
 }
+```
+OUTPUT :
 ```
 
 
@@ -780,6 +783,6 @@ printf("%d*%d=%d\n",a,b,c);
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODMyOTYzMCwyMTM2MzMyNzcxLC0xMz
+eyJoaXN0b3J5IjpbLTE4ODU3MjEyMywyMTM2MzMyNzcxLC0xMz
 kwNzQzMzc4LDE5NTg0NDU2OTZdfQ==
 -->
