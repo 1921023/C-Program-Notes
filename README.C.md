@@ -705,8 +705,12 @@ b=((a-32.00)*5.00)/9.00;
 Enter a fahrenheit value:450
 celsius value is:232.22
 kelvin value is:505.37
-22: mu
-```#include<stdio.h>
+
+
+
+```
+22: MULT
+#include<stdio.h>
 int main()
 {
 int a,b,c,d,p,q,r,s,k,l,m,n;
@@ -725,6 +729,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzAxODM4MywtMTM5MDc0MzM3OCwxOT
+eyJoaXN0b3J5IjpbMTAzNTQ0MTAzNywtMTM5MDc0MzM3OCwxOT
 U4NDQ1Njk2XX0=
 -->
