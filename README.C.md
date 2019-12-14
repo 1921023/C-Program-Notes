@@ -727,8 +727,6 @@ return 0;
 }
 ```
 
-*
-
 ## OUTPUT :
 ```
 |a b||p q|
@@ -753,6 +751,6 @@ _  _
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDc4NzUzNywtMTM5MDc0MzM3OCwxOT
+eyJoaXN0b3J5IjpbMjEzNjMzMjc3MSwtMTM5MDc0MzM3OCwxOT
 U4NDQ1Njk2XX0=
 -->
