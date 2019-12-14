@@ -710,6 +710,7 @@ kelvin value is:505.37
 ```
 
 ## 22: MULTIPLICATION OF MATRICES
+```
 #include<stdio.h>
 int main()
 {
@@ -725,7 +726,9 @@ printf("_  _\n|%d %d|\n|%d %d|\n_  _\n",k,l,m,n);
 return 0;
 }
 ```
+
 OUTPUT :
+```
 |a b||p q|
 |c d||r s|
 _   __   _
@@ -748,6 +751,6 @@ _  _
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTY2MzEwNywtMTM5MDc0MzM3OCwxOT
-U4NDQ1Njk2XX0=
+eyJoaXN0b3J5IjpbLTEwOTEyNzgzOTcsLTEzOTA3NDMzNzgsMT
+k1ODQ0NTY5Nl19
 -->
