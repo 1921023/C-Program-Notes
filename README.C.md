@@ -707,9 +707,9 @@ celsius value is:232.22
 kelvin value is:505.37
 
 
-
 ```
-22: MULTIIPLICATION OF MATRICES
+
+## 22: MULTIPLICATION OF MATRICES
 #include<stdio.h>
 int main()
 {
@@ -730,6 +730,6 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDMyNjk1NywtMTM5MDc0MzM3OCwxOT
+eyJoaXN0b3J5IjpbLTMxNjgwNTc0MiwtMTM5MDc0MzM3OCwxOT
 U4NDQ1Njk2XX0=
 -->
