@@ -729,7 +729,7 @@ return 0;
 
 *
 
-## [enter link description here](https://github.com/1921023/C-Program-Notes/blob/master/README.C.md)OUTPUT :
+## OUTPUT :
 ```
 |a b||p q|
 |c d||r s|
@@ -753,6 +753,6 @@ _  _
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTM3MjExLC0xMzkwNzQzMzc4LDE5NT
-g0NDU2OTZdfQ==
+eyJoaXN0b3J5IjpbMTEwMDc4NzUzNywtMTM5MDc0MzM3OCwxOT
+U4NDQ1Njk2XX0=
 -->
