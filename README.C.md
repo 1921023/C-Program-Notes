@@ -725,12 +725,33 @@ printf("_  _\n|%d %d|\n|%d %d|\n_  _\n",k,l,m,n);
 return 0;
 }
 ```
+**
+
+## strong text
+
+**OUTPUT :
+|a b||p q|
+|c d||r s|
+_   __   _
+1
+2
+3
+4
+5
+6
+7
+8
+_  _
+|19 22|
+|43 50|
+_  _
+```
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkwMjE2MzIsLTEzOTA3NDMzNzgsMT
-k1ODQ0NTY5Nl19
+eyJoaXN0b3J5IjpbMjYwOTEyNzk1LC0xMzkwNzQzMzc4LDE5NT
+g0NDU2OTZdfQ==
 -->
